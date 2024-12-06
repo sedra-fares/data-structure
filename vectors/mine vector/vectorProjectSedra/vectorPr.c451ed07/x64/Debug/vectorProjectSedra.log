@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Administrator\source\repos\vectorProjectSedra\Source.cpp(9,6): warning C4101: 'x': unreferenced local variable
-  vectorProjectSedra.vcxproj -> C:\Users\Administrator\source\repos\vectorProjectSedra\x64\Debug\vectorProjectSedra.exe
